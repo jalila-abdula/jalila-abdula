@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">Hi 👋 What's up?</h1>
+<h1 align="left">Hello 👋 What's up?</h1>
 
 ###
 
